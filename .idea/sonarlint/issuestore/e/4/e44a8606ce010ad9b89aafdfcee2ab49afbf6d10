@@ -1,0 +1,28 @@
+
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ü×ºáøÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓƒÖÒıÿÿÿÿ
+usquid:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶Òå”üÿÿÿÿ
+usquid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßûîúÿÿÿÿ
+usquid:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(°»ÑÔûÿÿÿÿ
+usquid:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÊáéøÿÿÿÿ
+psquid:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(½—‹‰
+g
+squid:S128G"LEnd this switch case with an unconditional break, return or throw statement.(ÂÙÑÆúÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾õöï
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(¨¦ôÖ
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ì¼Ÿ
+T
+squid:S106E"9Replace this use of System.out or System.err by a logger.(´™Ïäÿÿÿÿÿ
+T
+squid:S106O"9Replace this use of System.out or System.err by a logger.(õïùÿÿÿÿ
+N
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(Éğ¼q
+O
+squid:S106q"9Replace this use of System.out or System.err by a logger.(É·ù‹
+T
+squid:S106t"9Replace this use of System.out or System.err by a logger.(»šîßüÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(Çµí‘
+Tsquid:UselessImportCheck"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
